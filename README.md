@@ -14,6 +14,7 @@ This project introduces a deep CNN framework for classifying brain tumors from g
 ---
 
 ## Directory Structure
+```
 
 BrainTumorMRI/
 
@@ -44,7 +45,7 @@ BrainTumorMRI/
 ├── LICENSE
 
 └── README.md
-
+```
 ---
 
 ## Dataset
