@@ -90,7 +90,7 @@ If you have any questions regarding dataset preparation, feel free to open an is
 
 4. **Train & evaluate the model:**
     ```bash cd src
-       python main.py
+    python main.py
     ```
 
 5. **Outputs:**
@@ -110,6 +110,7 @@ If you have any questions regarding dataset preparation, feel free to open an is
 ### Model Summary
 
 <details>
+```
 <summary>View Keras Model Summary</summary>
 ```
 Model: "sequential"
@@ -138,8 +139,8 @@ _________________________________________________________________
  dropout (Dropout)           (None, 128)               0
 
  dense_1 (Dense)             (None, 4)                 516
-```
-=================================================================
+
+_________________________________________________________________
 Total params: 14,838,916
 Trainable params: 14,838,916
 Non-trainable params: 0
