@@ -110,8 +110,9 @@ If you have any questions regarding dataset preparation, feel free to open an is
 ### Model Summary
 
 <details>
-<summary>```‍‍‍View Keras Model Summary</summary>
+<summary>View Keras Model Summary</summary>
 Model: "sequential"
+```
 _________________________________________________________________
  Layer (type)                Output Shape              Param #
 _________________________________________________________________
@@ -137,12 +138,12 @@ _________________________________________________________________
  dropout (Dropout)           (None, 128)               0
 
  dense_1 (Dense)             (None, 4)                 516
-
 _________________________________________________________________
 Total params: 14,838,916
 Trainable params: 14,838,916
 Non-trainable params: 0
-_________________________________________________________________```
+_________________________________________________________________
+```
 </details>
 
 ---
