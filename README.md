@@ -110,8 +110,7 @@ If you have any questions regarding dataset preparation, feel free to open an is
 ### Model Summary
 
 <details>
-<summary>‍‍‍View Keras Model Summary</summary>
-```
+<summary>```‍‍‍View Keras Model Summary</summary>
 Model: "sequential"
 _________________________________________________________________
  Layer (type)                Output Shape              Param #
