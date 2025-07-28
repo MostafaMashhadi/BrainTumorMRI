@@ -75,14 +75,12 @@ If you have any questions regarding dataset preparation, feel free to open an is
 ## How to Run
 
 1. **Clone the repository:**
-    ```bash
-git clone https://github.com/MostafaMashhadi/BrainTumorMRI.git
+    ```bash git clone https://github.com/MostafaMashhadi/BrainTumorMRI.
 cd BrainTumorMRI
     ```
 
 2. **Install dependencies:**
-    ```bash
-pip install -r requirements.txt
+    ```bash pip install -r requirements.txt
     ```
 
 3. **Prepare the dataset:**
@@ -90,9 +88,8 @@ pip install -r requirements.txt
     - (Optional) Adjust `DATA_DIR` in `src/main.py` if needed
 
 4. **Train & evaluate the model:**
-    ```bash
-cd src
-python main.py
+    ```bash cd src
+       python main.py
     ```
 
 5. **Outputs:**
@@ -110,8 +107,9 @@ python main.py
 - EarlyStopping & ReduceLROnPlateau for robust training
 
 ### Model Summary
-```
+
 <details>
+‍‍‍```
 <summary>View Keras Model Summary</summary>
 Model: "sequential"
 _________________________________________________________________
@@ -145,8 +143,8 @@ Total params: 14,838,916
 Trainable params: 14,838,916
 Non-trainable params: 0
 _________________________________________________________________
-</details>
 ```
+</details>
 
 ---
 
