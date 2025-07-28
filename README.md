@@ -111,6 +111,7 @@ If you have any questions regarding dataset preparation, feel free to open an is
 
 <details>
 <summary>View Keras Model Summary</summary>
+
 Model: "sequential"
 ```
 _________________________________________________________________
