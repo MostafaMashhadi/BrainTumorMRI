@@ -1,0 +1,6 @@
+Data/
+models/BrainTumorClassifier.h5
+__pycache__/
+.DS_Store
+Thumbs.db
+
