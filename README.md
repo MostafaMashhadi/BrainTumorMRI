@@ -110,13 +110,12 @@ If you have any questions regarding dataset preparation, feel free to open an is
 ### Model Summary
 
 <details>
-```
-<summary>View Keras Model Summary</summary>
+<summary>‍‍‍View Keras Model Summary</summary>
 ```
 Model: "sequential"
 _________________________________________________________________
  Layer (type)                Output Shape              Param #
-=================================================================
+_________________________________________________________________
  conv2d (Conv2D)             (None, 254, 254, 32)      320
 
  max_pooling2d (MaxPooling2D  (None, 127, 127, 32)     0
@@ -144,8 +143,7 @@ _________________________________________________________________
 Total params: 14,838,916
 Trainable params: 14,838,916
 Non-trainable params: 0
-_________________________________________________________________
-```
+_________________________________________________________________```
 </details>
 
 ---
