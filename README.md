@@ -76,7 +76,7 @@ If you have any questions regarding dataset preparation, feel free to open an is
 
 1. **Clone the repository:**
     ```bash cd BrainTumorMRI
-    git clone https://github.com/MostafaMashhadi/BrainTumorMRI.
+    git clone https://github.com/MostafaMashhadi/BrainTumorMRI
     ```
 
 2. **Install dependencies:**
@@ -138,13 +138,13 @@ _________________________________________________________________
  dropout (Dropout)           (None, 128)               0
 
  dense_1 (Dense)             (None, 4)                 516
-
+```
 =================================================================
 Total params: 14,838,916
 Trainable params: 14,838,916
 Non-trainable params: 0
-_________________________________________________________________```
-
+_________________________________________________________________
+```
 </details>
 
 ---
